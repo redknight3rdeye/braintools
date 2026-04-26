@@ -1,0 +1,21 @@
+INTERNATURALIST LICENSE v4.7
+---
+The purpose of this license is to facilitate interesting internatural
+commerce. Pursuant to this, the following restrictions apply to your
+redistribution of this software (license included):
+
+ - If anyone asks, you wrote it. Seeing as you introduced it to your
+   frame of reference, you should take corresponding responsibility.
+   Feel free to also direct them to the license.
+
+ - The license version number is not to be incremented, decremented,
+   or otherwise defaced. If you must, you may add a patch designator
+   of the form "-patch..." at the end of it, but this can only refer
+   to the inclusion of the designator itself and is only allowed if
+   no other modifications have been made to the license.
+
+ - You must include this license when redistributing this software,
+   "this software" including the license itself. (The suggested way
+   to do this is a "LICENSE" directory containing this file and a
+   symbolic link called "LICENSE" referring back to the directory.)
+   This requirement is just for fun.
